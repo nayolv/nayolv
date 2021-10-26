@@ -13,10 +13,10 @@
 ### <img src="https://2.bp.blogspot.com/-nIYE3THQ_LM/Xdj_SjTR1bI/AAAAAAAU9SU/ttudIad83PM42_Sp5dW_gqw3w35Hm56EgCNcBGAsYHQ/s1600/AW4061856_10.gif" width="50"> Acerca de mi...
 
 ```javascript
-const Nay {
-  code: [Javascript, HTML, CSS],
-  tools: [Node, Jest, Firebase, Git],
-  design: [Figma, Photoshop]
+const Nay = {
+  code: "Javascript, HTML, CSS",
+  tools: "Node, Jest, Firebase, Git",
+  design: "Figma, Photoshop"
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayolv&layout=compact&theme=tokyonight)](https://github.com/nayolv/github-readme-stats)
