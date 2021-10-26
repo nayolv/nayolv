@@ -3,7 +3,7 @@
 <p><em>Estudiante de <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://78.media.tumblr.com/245d476db2fe828950eac6b367a8e1a3/tumblr_nwjixdTx2p1s5kid8o1_500.gif" width="30"></br>Desarrolladora Front End en construcción<img src="https://i.pinimg.com/originals/a0/d7/96/a0d79644f8ec772f07f5d53bafddd97e.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-NayelliOlvera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-NayelliOlvera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayelli-guadalupe-olvera-d)](https://www.linkedin.com/in/nayelli-guadalupe-olvera-d)
 [![GitHub nayolv](https://img.shields.io/github/followers/nayolv?label=follow&style=social)](https://github.com/nayolv)
 
 
