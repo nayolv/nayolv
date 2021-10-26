@@ -19,6 +19,6 @@ const Nay {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayolv&layout=compact)](https://github.com/nayolv/github-readme-stats)
 ![Nay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayolv&show_icons=true&theme=radical)
 
-<img src="https://i.pinimg.com/originals/a0/d7/96/a0d79644f8ec772f07f5d53bafddd97e.gif" width="30"> <em><b>"Si se puede imaginar se puede programar" <b></em>
+<img src="https://2.bp.blogspot.com/-nIYE3THQ_LM/Xdj_SjTR1bI/AAAAAAAU9SU/ttudIad83PM42_Sp5dW_gqw3w35Hm56EgCNcBGAsYHQ/s1600/AW4061856_10.gif" width="40"> <em><b>"Si se puede imaginar se puede programar" <b></em>
 
 ---
