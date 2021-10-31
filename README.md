@@ -1,5 +1,6 @@
 
 ---
+![banner](https://i.ibb.co/x31P1Cn/NAYELLI.gif)
 <h2><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="30"> Bienvenidx a mi repo!</h2>
 
 <img align='right' src="https://media4.giphy.com/media/42pAImyjOxDEcKJcXt/giphy.gif?cid=790b76117002bfb029cd39d851c94795b0cb3150e6f268ab&rid=giphy.gif&ct=s" width="230">
