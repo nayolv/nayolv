@@ -2,7 +2,7 @@
 ---
 ![banner](https://i.ibb.co/x31P1Cn/NAYELLI.gif)
 <h2><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="30"> Bienvenidx a mi repo!</h2>
-<img align='right' src="https://i.ibb.co/n8WJb5G/mona-loading-dark.gif" width="230">
+<img align='right' src="https://i.ibb.co/n8WJb5G/mona-loading-dark.gif" width="150">
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-NayelliOlvera-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayelli-guadalupe-olvera-d)](https://www.linkedin.com/in/nayelli-guadalupe-olvera-d)
 [![GitHub nayolv](https://img.shields.io/github/followers/nayolv?label=follow&style=social)](https://github.com/nayolv)
