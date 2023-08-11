@@ -14,7 +14,7 @@
 
 ```javascript
 const Nay = {
-  code: ["Javascript", "HTML", "CSS"];
+  code: ["Javascript", "Typescript", "HTML", "CSS"];
   tools: ["Node.js", "Jest", "Firebase", "React.js", "Sass", "Bootstrap", 
   "Git", "MUI","JSON", "Postman", "Firebase", "Wordpress", "Odoo"]
   design: ["Figma", "Photoshop"]
